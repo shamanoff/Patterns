@@ -6,6 +6,7 @@ import factories.UsaFactory;
  * Created by Michael on 06/05/2016.
  */
 public class Main {
+
     private static TransFact fact;
     public static void main(String[] args) {
         if (true) {
@@ -21,7 +22,7 @@ public class Main {
 //        Aircraft aircraft = rusFactory.createAircraft();
 //        aircraft.flight();
 
-
+    
 
 
     }
