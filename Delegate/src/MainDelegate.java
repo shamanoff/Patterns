@@ -10,5 +10,8 @@ public class MainDelegate {
 
         painter.setGraphics(new Circle());
         painter.draw();
+
+        painter.setGraphics(new Sguare());
+        painter.draw();
     }
 }
