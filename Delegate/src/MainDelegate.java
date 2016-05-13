@@ -7,5 +7,8 @@ public class MainDelegate {
 
         painter.setGraphics(new Triangle());
         painter.draw();
+
+        painter.setGraphics(new Circle());
+        painter.draw();
     }
 }
