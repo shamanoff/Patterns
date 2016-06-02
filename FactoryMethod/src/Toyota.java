@@ -4,11 +4,11 @@
 public class Toyota implements Car {
     @Override
     public void drive() {
-        System.out.println("Drive hard");
+        System.out.println("Toyota Drive hard");
     }
 
     @Override
     public void stop() {
-        System.out.println("Stop slowly");
+        System.out.println("Toyota Stop slowly");
     }
 }

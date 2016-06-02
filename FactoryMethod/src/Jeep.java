@@ -4,11 +4,11 @@
 public class Jeep implements Car {
     @Override
     public void drive() {
-        System.out.println("Drive");
+        System.out.println("Jeep Drive");
     }
 
     @Override
     public void stop() {
-        System.out.println("Stop");
+        System.out.println("Jeep Stop");
     }
 }
